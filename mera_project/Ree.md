@@ -1,4 +1,4 @@
-# student management sysrtem
+# student management system
 A student management system build with python
 ## features
 - add student

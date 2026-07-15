@@ -28,3 +28,25 @@ if x!=y:
     print("x is not equal")
 else:
     print("equal")
+
+#while loop
+i = 3
+while i != 0:
+    print("meow") 
+  # to stop infinite loop
+    i = i-1
+
+i = 1
+while i < 3:
+    print("hii")
+    i +=1  
+
+#for loop
+for i in [0,1,2]:
+    print("meow")
+#range
+for i in range(3):
+    print("ggg")
+print("meow*3") #in same line
+print("meow/n"*3,end=" ") #for different lines
+

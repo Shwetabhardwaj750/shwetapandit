@@ -35,5 +35,13 @@ for i in range(n):
             print("",end="")
     print()
 n=4
-
-
+name = input("what's your name:")
+match name:
+    case "Harry" | "Hermoine" | "Ron":
+        print("gryffindor")
+    case "Draco":
+        print("slytherin")
+    case _:
+        print("who?")
+        
+    
