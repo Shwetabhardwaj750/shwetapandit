@@ -1,4 +1,4 @@
-#customer dhopping data analysis
+#customer shopping data analysis
 ## project overview
 This project performs data analysis on customer shopping data analysis on a customer shopping data using python and pandas.
 The project includes:
